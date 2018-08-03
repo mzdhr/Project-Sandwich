@@ -1,4 +1,6 @@
-# Sandwich Club Project Starter Code [Done, this is solution repository]
+# Sandwich Club App
+[Done, this is solution repository]
+Sandwich Club app to show the details of each sandwich once it is selected.
 
 ## Project Overview
 In this project, you will complete the **Sandwich Club** app to
